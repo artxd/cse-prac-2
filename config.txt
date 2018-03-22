@@ -1,0 +1,6 @@
+[user]
+	email = artannuk@gmail.com
+	name = oOoARToOo
+[credential]
+	helper = wincred
+[core]
