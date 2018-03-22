@@ -3,3 +3,4 @@
 [credential]
 	helper = wincred
 [core]
+__pycache__/ contains the bytecode of the compiled python program
